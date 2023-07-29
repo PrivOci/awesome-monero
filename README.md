@@ -15,6 +15,7 @@
 * [What is Monero?](https://web.getmonero.org/get-started/what-is-monero)
 * [How Monero Works](https://www.youtube.com/watch?v=QrHsFZBab4U) - by Mental Outlaw
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/f769b96a-8b95-4ce9-b87d-41669d03558b" width="20" height="20">
+* [Mastering Monero: The future of private transactions](https://masteringmonero.com/) - Book by [@SerHack](https://serhack.me/)
 * [User Guides](https://web.getmonero.org/resources/user-guides/)
 
 ## Wallets
@@ -41,7 +42,7 @@
 * [Gupax](https://github.com/hinto-janai/gupax) - Gupax is a GUI for mining Monero on P2Pool, using XMRig.
 
 ## Communities
-* [#monero-community](irc://irc.libera.chat/#monero-community) on irc.libera
+* [#monero-community](https://libera.chat) on irc.libera
 * [#monero-community](https://matrix.to/#/#monero-community:monero.social?via=matrix.org&via=monero.social) on Matrix
 * [monero.town](https://monero.town/) - A Lemmy instance for the Monero community discussions.
 * [Monero Workgroups](https://www.getmonero.org/community/workgroups/) - Workgroups are formed by community members who join forces to achieve a common goal. 

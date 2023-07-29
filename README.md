@@ -55,7 +55,8 @@
 * [#monero-community](https://libera.chat) on irc.libera
 * [#monero-community](https://matrix.to/#/#monero-community:monero.social?via=matrix.org&via=monero.social) on Matrix
 * [monero.town](https://monero.town/) - A Lemmy instance for the Monero community discussions
-* [Monero XMR](https://telegram.me/monero) - Monero on Telegram
+* [t.me/monero](https://telegram.me/monero) - Monero on Telegram
+* [@monero](https://twitter.com/monero) - Monero on Twitter/X
 * [r/Monero](https://www.reddit.com/r/Monero/) - The official subreddit of Monero (XMR)
 * [Monero Workgroups](https://www.getmonero.org/community/workgroups/) - Workgroups are formed by community members who join forces to achieve a common goal. 
 

@@ -10,11 +10,15 @@
 - [Technical Documentation](#technical-documentation)
 - [Buying Monero](#buying-monero)
 - [Related Projects](#related-projects)
+  
+![CypherpunkManifesto](https://github.com/PrivOci/awesome-monero/assets/74867724/97867f5b-f929-476d-9b12-2cdaa8a4e83b)
 
 ## Getting Started
 * [What is Monero?](https://web.getmonero.org/get-started/what-is-monero)
 * [How Monero Works](https://www.youtube.com/watch?v=QrHsFZBab4U) - by Mental Outlaw
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/f769b96a-8b95-4ce9-b87d-41669d03558b" width="20" height="20">
+* [XMR/Monero General Info-Dump](https://moneroinfodump.neocities.org/)
+* [Monero Community Index](https://monerocommunityindex.neocities.org/)
 * [Mastering Monero: The future of private transactions](https://masteringmonero.com/) - Book by [@SerHack](https://serhack.me/)
 * [User Guides](https://web.getmonero.org/resources/user-guides/)
 

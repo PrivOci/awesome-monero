@@ -15,6 +15,8 @@
 
 ## Getting Started
 * [What is Monero?](https://web.getmonero.org/get-started/what-is-monero)
+* [Monero: Sound Money, Safe Mode](https://www.youtube.com/watch?v=wq6w03E2DS4) - by Dr. Daniel Kim
+  <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/f769b96a-8b95-4ce9-b87d-41669d03558b" width="20" height="20">
 * [How Monero Works](https://www.youtube.com/watch?v=QrHsFZBab4U) - by Mental Outlaw
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/f769b96a-8b95-4ce9-b87d-41669d03558b" width="20" height="20">
 * [XMR/Monero General Info-Dump](https://moneroinfodump.neocities.org/)

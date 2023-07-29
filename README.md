@@ -40,6 +40,9 @@
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/c71fe247-1348-49f0-af6b-9441600c6dfc" width="20" height="20">
 * [Monerujo](https://www.monerujo.io/) - Android Wallet for Monero
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/eb72760d-6f2e-4535-bc86-ed969677614b" width="20" height="20">
+* Hardware Wallets
+  * [Trezor](https://trezor.io/learn/a/monero-xmr-on-trezor-model-t)
+  * [Ledger](https://support.ledger.com/hc/en-us/articles/360006352934-Monero-XMR-?support=true)
 
 ## Mining
 * [Mining](https://web.getmonero.org/get-started/mining/) - Information and resources on how to begin mining.

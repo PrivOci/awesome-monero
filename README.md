@@ -19,7 +19,7 @@ https://github.com/PrivOci/awesome-monero/assets/74867724/fde73905-f105-44ac-b79
 * [User Guides](https://web.getmonero.org/resources/user-guides/)
 
 ## Wallets
-* [Monero GUI/CLI Wallet](https://www.getmonero.org/downloads/) - An open-source graphical user interface (GUI) wallet developed by the Monero community.
+* [Monero GUI/CLI Wallet](https://www.getmonero.org/downloads/) - An open-source graphical user interface (GUI) wallet.
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/ca53c381-6a4a-450c-b2f5-5223fa3ad19e" width="20" height="20">
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/88f937e1-eb4d-4703-b3f9-ff3b0fa55a75" width="20" height="20">
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/5491fb42-15eb-4ea5-8194-35a69bdd2c18" width="20" height="20">
@@ -37,4 +37,5 @@ https://github.com/PrivOci/awesome-monero/assets/74867724/fde73905-f105-44ac-b79
  
 ## Mining
 * [Mining](https://web.getmonero.org/get-started/mining/) - Information and resources on how to begin mining.
+* [P2Pool and Its Role in Decentralizing Monero Mining](https://localmonero.co/knowledge/p2pool-decentralizing-monero-mining?language=en) - Seth For Privacy
 

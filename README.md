@@ -13,7 +13,7 @@
 
 ## Getting Started
 * [What is Monero?](https://web.getmonero.org/get-started/what-is-monero)
-* [How Monero Works](https://www.youtube.com/watch?v=QrHsFZBab4U) [Mental Outlaw]
+* [How Monero Works](https://www.youtube.com/watch?v=QrHsFZBab4U) - by Mental Outlaw
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/f769b96a-8b95-4ce9-b87d-41669d03558b" width="20" height="20">
 * [User Guides](https://web.getmonero.org/resources/user-guides/)
 
@@ -36,6 +36,8 @@
 ## Mining
 * [Mining](https://web.getmonero.org/get-started/mining/) - Information and resources on how to begin mining.
 * [P2Pool and Its Role in Decentralizing Monero Mining](https://localmonero.co/knowledge/p2pool-decentralizing-monero-mining?language=en) - Seth For Privacy
+* [Monero P2Pool explained](https://www.youtube.com/watch?v=nX43sATFGqI) - by @CursedMining
+  <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/f769b96a-8b95-4ce9-b87d-41669d03558b" width="20" height="20"> 
 * [Gupax](https://github.com/hinto-janai/gupax) - Gupax is a GUI for mining Monero on P2Pool, using XMRig.
 
 ## Communities

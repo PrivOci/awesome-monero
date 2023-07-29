@@ -38,4 +38,14 @@ https://github.com/PrivOci/awesome-monero/assets/74867724/fde73905-f105-44ac-b79
 ## Mining
 * [Mining](https://web.getmonero.org/get-started/mining/) - Information and resources on how to begin mining.
 * [P2Pool and Its Role in Decentralizing Monero Mining](https://localmonero.co/knowledge/p2pool-decentralizing-monero-mining?language=en) - Seth For Privacy
+* [Gupax](https://github.com/hinto-janai/gupax) - Gupax is a GUI for mining Monero on P2Pool, using XMRig.
+
+## Communities
+* [#monero-community](irc://irc.libera.chat/#monero-community) on irc.libera
+  <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/37d0a19e-29d4-42c2-ad79-b6a0df601966" width="20" height="20">
+* [#monero-community](https://matrix.to/#/#monero-community:monero.social?via=matrix.org&via=monero.social) on Matrix
+  <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/a7a5dae1-ad96-487e-a338-cc3747d20d58)" width="20" height="20">
+* [monero.town](https://monero.town/) - A Lemmy instance for the Monero community discussions.
+* [Monero Workgroups](https://www.getmonero.org/community/workgroups/) - Workgroups are formed by community members who join forces to achieve a common goal. 
+
 

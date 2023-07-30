@@ -42,6 +42,7 @@
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/eb72760d-6f2e-4535-bc86-ed969677614b" width="20" height="20">
 * Hardware Wallets
   * [Trezor](https://trezor.io/learn/a/monero-xmr-on-trezor-model-t)
+* [Monero Wallet Apps](https://github.com/seraphis-migration/strategy/wiki/Monero-Wallet-Apps) -  A complete list of all non-custodial wallets that support Monero
 
 ## Mining
 * [Mining](https://web.getmonero.org/get-started/mining/) - Information and resources on how to begin mining.

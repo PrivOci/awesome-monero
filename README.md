@@ -34,6 +34,9 @@
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/9ee0b9ba-fbe0-4a4f-849d-3bacc7d8cfb8" width="20" height="20">
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/eb72760d-6f2e-4535-bc86-ed969677614b" width="20" height="20">
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/a9a34741-c56a-4edc-8a0d-51253f7e56af" width="20" height="20">
+* [Stack Wallet](https://stackwallet.com/) - A noncustodial privacy-preserving multi-currency wallet
+  <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/eb72760d-6f2e-4535-bc86-ed969677614b" width="20" height="20">
+  <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/a9a34741-c56a-4edc-8a0d-51253f7e56af" width="20" height="20">
 * [Feather](https://featherwallet.org) - Feather: a free Monero desktop wallet
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/9ee0b9ba-fbe0-4a4f-849d-3bacc7d8cfb8" width="20" height="20">
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/48feb5b7-680a-42e1-b27b-4746b2a06a90" width="20" height="20">

@@ -21,6 +21,7 @@
   <img src="https://github.com/PrivOci/awesome-monero/assets/74867724/f769b96a-8b95-4ce9-b87d-41669d03558b" width="20" height="20">
 * [XMR/Monero General Info-Dump](https://moneroinfodump.neocities.org/)
 * [Monero Community Index](https://monerocommunityindex.neocities.org/)
+* [XMRList](https://xmrlist.com/) - Hand-reviewed directory of businesses that accept Monero, with user reviews and scam warnings
 * [Mastering Monero: The future of private transactions](https://masteringmonero.com/) - Book by [@SerHack](https://serhack.me/)
 * [Monero Report](https://www.cryptoeq.io/corereports/monero-abridged) - by CryptoEQ
 * [User Guides](https://web.getmonero.org/resources/user-guides/)
